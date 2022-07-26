@@ -74,18 +74,75 @@ Variables in Python
 	a=b=c="fruit"
 	
 
+Global Variables & Local Variables in Python
+
+ - Local Variables that are created inside a function.
+ - Local Variables can be used inside function only.
+ 
+ 
+ Global Variables
+ 
+ - Variables that are created outside function know as Global variables.
+ 
+ - Global variables can be used everywhere, both inside and outside function.
+ 
+ - If we create a variable with same name inside function, still both local and Global variables are different. Local variables can be used only with in the function.
+ 
+
+Global Keyword
+
+ - If you would like to create global variable inside function, we should use "global" keyword
+ 
+ - To change the value of global variable inside function, use "global" keyword.
 
 
+Data Types
+
+- In programming languages Data Types are important subject.
+- Variables can store data of different data types.
+- In python, the moment you assign value to variable, that's when Data Type will be set for variables.
+
+  Built in Data Types
+  
+  Text Type: str
+  Numeric Types: int,float,complex
+  Sequence Types: list,tuple,range
+  Mapping Type: dict
+  Set Types: set, frozenset
+  Boolean Type: bool
+  Binary Types: bytes, bytearray, memoryview
 
 
+Python Numbers
+
+- There are 3 numbers types available in Python
+	1. int
+	2. float
+	3. Complex
+	
+  int - it's a whole number(positive or negative) without decimals, unlimited length
+  
+  float - it's a decimal number(positive or negative) containing one or more decimals
+  
+  complex - complex numbers are written with "j" as the imaginary part
 
 
+Data Type Conversion 
+Type Casting
 
-
-
-
-
-
+ - Strings in python are surrounded by single quote or double quote. (it's up to developer which quotes he wants to use)
+ 
+ - To get multiline strings, we should use three quotes.
+ 
+ - Strings in Python are like Array of characters. Hence, we can access characters in strings using indexes.
+   Note:- Doesn't has character data type
+   
+ - Since strings are like array of characters, we can loop through them
+ 
+ - In keyword can be used to check certain phrase or character in string
+ 
+ - To concatenate use + symbol
+ 
 
 
 
