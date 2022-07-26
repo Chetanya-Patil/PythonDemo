@@ -29,6 +29,65 @@ Note: We should use same number of spaces for all lines in same block of code.
 
 To clear the terminal just type -- cls
 
+Python Comments
+
+- Comments can be used in python
+  - To explain python code
+  - To make code readable
+  - To prevent code from execution while testing.
+  
+- Comments start with "#"
+
+- Types of Comments
+  - Single line comment
+  - Multi line comment
+  - DocString comment
+  
+shortcuts: ctrl + k + c   <---- to put comment on line
+		   ctrl + k + u   <---- to remove comment on line
+		    
+			
+Variables in Python
+
+  1. Variables in python
+
+- Variables are like containers for storing data values
+- Variables names are case-sensitive
+- Python has no command for declaring a variable. Variable will get create the moment you assign value to it.
+- Variables can change type after they have been set. <--- it's important to know
+- We can get the type of variables using type() function
+
+  2. Variables names in python
+  
+- A variables name must start with a letter or the underscore character
+- A variable name cannot start with a number
+- A variable name can only contain alpha-numeric characters and underscore ( A-z,0-9, and_)
+- Variable names are case-sensitive (age, Age and AGE are three different variables)
+
+
+  3. Assign multiple values to variables
+
+- Assign multiple values to multiple variables
+	a,b,c = "apple",'ball',"cat"
+	
+- One value to multiple variable
+	a=b=c="fruit"
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
