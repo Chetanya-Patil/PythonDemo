@@ -139,12 +139,21 @@ Type Casting
    
  - Since strings are like array of characters, we can loop through them
  
- - In keyword can be used to check certain phrase or character in string
+ - in keyword can be used to check certain phrase or character in string
  
  - To concatenate use + symbol
  
 
-
+ 
+  Slicing Strings
+  
+  - We can return range of characters by using slice syntax
+     a = "Hello"
+	 print(a[2:4])
+	 
+  - Use Negative Index to start slice from end of string
+	 a = "Hello"
+	 print(a[-5:-2])
 
 
 
