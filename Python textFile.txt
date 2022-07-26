@@ -1,0 +1,47 @@
+Introduction to Python | Why Python
+
+- Python works on diffeerent platforms(Windows, Mac, Linux etc.)
+- Easy to understand with simple syntax. Almost similar to English language.
+- Python runs on interpreter system, meaning code can be run as soon as it is written.
+
+Download and Install
+
+- https://www.python.org/
+
+Python Editors/IDEs
+
+- PyCharm
+- Sublime
+- Atom
+- Vim
+- Spyder
+- Visual Studio Code --- using this for python
+- Intellij
+
+Python Indentation
+
+- Indentation means space at the beginning of code line.
+- Python uses identation to indicate a block of code.
+- In other languages the indentation in code is only for readability, the identation in python is very important.
+- Python will give error if you skip the identation. Number of spaces is up to programmer. But it should be at least one.
+
+Note: We should use same number of spaces for all lines in same block of code.
+
+To clear the terminal just type -- cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
