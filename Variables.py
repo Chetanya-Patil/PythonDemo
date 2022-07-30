@@ -1,7 +1,4 @@
 # As python is case-sensative
-from re import A, T, X
-from tkinter import Y
-
 
 age = 24
 Age = 25
